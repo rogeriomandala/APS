@@ -1,0 +1,73 @@
+{
+    "actividadeCRUD": {
+        "data": {
+            "valor": "Data",
+            "tipo": "Date"
+        },
+        "titulo": {
+            "valor": "Titulo",
+            "tipo": "String"
+        },
+        "descricao": {
+            "valor": "Descricao",
+            "tipo": "String"
+        },
+        "funcionalidades":[
+            "funcionalidade":{
+                "nome": {
+                    "valor": "nome",
+                    "tipo": "String"
+                },
+                "descricao": {
+                    "valor": "descricao",
+                    "tipo": "String"
+                },
+                "entidade": {
+                    "valor": "nome",
+                    "tipo": "String"
+                },
+                 "atributos":[
+                    "atributo": {
+                        "nome": {
+                            "valor": "nome",
+                            "tipo": "String"
+                        }
+                    }
+                ],
+                "criar": {
+                    "valor": "criar",
+                    "tipo": "boolean"
+                },
+                "ler": {
+                    "valor": "ler",
+                    "tipo": "boolean"
+                },
+                "actualizar": {
+                    "valor": "actualizar",
+                    "tipo": "boolean"
+                },
+                "remover": {
+                    "valor": "remover",
+                    "tipo": "boolean"
+                },
+
+            },
+        ],
+        "tecnologias":[
+            "tecnologia":{
+                "nome": {
+                    "valor": "nome",
+                    "tipo": "String"
+                }
+            }
+        ],
+        "modeloEr": {
+            "valor": "Modelo ER do Banco de Dados",
+            "tipo": "file"
+        },
+        "aplicacaoBase": {
+            "valor": "Aplicação Base",
+            "tipo": "file"
+        }
+    }
+}

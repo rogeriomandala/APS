@@ -1,0 +1,34 @@
+{
+    "qualitativas": [
+        "Percentagem de conclusão das funcionalidades":{
+            "tipo": "double"
+        }
+    ],
+    "quantitativa": {
+        "crusds implementados": {
+            "crud": { 
+                "nome":{
+                    "valor": "Nome",
+                    "tipo": "String"
+                },
+                "avaliacao":{
+                    "valor": "Avaliacao (1-10)",
+                    "tipo": "integer"
+                }               ,
+                "comentario":{
+                    "valor": "Comentario",
+                    "tipo": "String"
+                }
+            }
+        }
+    },
+    "pontosfortes": {
+            "valor": "Pontos fortes",
+            "tipo": "String"
+        },
+    "melhoraia": {
+        "valor": "Areas de melhoria",
+        "tipo": "String"
+    }    
+}
+
